@@ -1,0 +1,4 @@
+packages:
+  .
+  vendor/haskell-tree-sitter/tree-sitter
+

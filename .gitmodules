@@ -1,0 +1,6 @@
+[submodule "vendor/tree-sitter-moonbit"]
+	path = vendor/tree-sitter-moonbit
+	url = https://github.com/moonbitlang/tree-sitter-moonbit.git
+[submodule "vendor/haskell-tree-sitter"]
+	path = vendor/haskell-tree-sitter
+	url = https://github.com/tree-sitter/haskell-tree-sitter.git
