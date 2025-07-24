@@ -3,4 +3,5 @@
 	url = https://github.com/moonbitlang/tree-sitter-moonbit.git
 [submodule "vendor/haskell-tree-sitter"]
 	path = vendor/haskell-tree-sitter
-	url = https://github.com/tree-sitter/haskell-tree-sitter.git
+	url = https://github.com/HCHogan/haskell-tree-sitter.git
+	branch = main
